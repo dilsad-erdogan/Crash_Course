@@ -1,0 +1,3 @@
+başlangıç::  npx expo start -c
+
+54.15
